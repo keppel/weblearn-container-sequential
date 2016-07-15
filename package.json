@@ -1,0 +1,14 @@
+{
+  "name": "weblearn-container-sequential",
+  "version": "1.0.0",
+  "description": "Compute child layers in sequence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Judd Keppel <kepzorz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "old": "^0.1.3"
+  }
+}
