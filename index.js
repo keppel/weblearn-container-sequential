@@ -1,6 +1,6 @@
 'use strict'
 
-const { Container } = require('weblearn')
+const {Container} = require('weblearn')
 const old = require('old')
 
 class Sequential extends Container {
