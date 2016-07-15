@@ -1,6 +1,7 @@
 'use strict'
 
-const Container = require('./Container.js')
+const { Container } = require('weblearn')
+const old = require('old')
 
 class Sequential extends Container {
   constructor(args) {
@@ -85,4 +86,4 @@ class Sequential extends Container {
 
 }
   
-module.exports = Sequential
+module.exports = old(Sequential)
