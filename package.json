@@ -1,6 +1,6 @@
 {
   "name": "weblearn-container-sequential",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compute child layers in sequence",
   "main": "index.js",
   "scripts": {
