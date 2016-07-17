@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "old": "^0.1.3",
-    "weblearn": "*"
+    "weblearn-container": "^1.0.0"
   }
 }
